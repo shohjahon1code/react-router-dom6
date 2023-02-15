@@ -1,1 +1,12 @@
-{"events":[{"title":"Title the book","image":"https://www.shutterstock.com/image-photo/surreal-image-african-elephant-wearing-260nw-1365289022.jpg","date":"2023-03-04","description":"Nimadir","id":"61a90823-1e28-47fa-8649-7a02a276aa70"},{"title":"Suyunov","image":"https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png","date":"2023-02-15","description":"Nimadir","id":"6d35a428-8dd9-4e20-ad67-d6a32450005f"}]}
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": []
+}
